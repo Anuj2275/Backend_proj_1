@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dark legend",
+    "rollNumber": "2310990352",
+    "dob": "2024-12-05",
+    "email": "darklegend912005@gmail.com",
+    "gender": "male",
+    "password": "asdf",
+    "address": "add1"
+  },
+  {
+    "name": "asdf",
+    "phoneNumber": "01111111111",
+    "dob": "2024-12-07",
+    "email": "eet@gmail.com",
+    "gender": "female",
+    "password": "1234"
+  }
+]
